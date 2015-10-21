@@ -1,0 +1,13 @@
+﻿Build started 9/23/2015 7:42:03 PM.
+     1>Project "C:\Users\scott\Downloads\lz4-r131\liblz4.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\scott\Downloads\lz4-r131\Debug\lz4.lib" /NOLOGO /MACHINE:X64 liblz4.dir\Debug\lz4.obj
+         liblz4.dir\Debug\lz4hc.obj
+         liblz4.dir\Debug\lz4frame.obj
+         liblz4.dir\Debug\xxhash.obj
+         liblz4.vcxproj -> C:\Users\scott\Downloads\lz4-r131\Debug\lz4.lib
+     1>Done Building Project "C:\Users\scott\Downloads\lz4-r131\liblz4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49

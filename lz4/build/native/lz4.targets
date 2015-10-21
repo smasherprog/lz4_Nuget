@@ -1,0 +1,17 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="lz4.h" />
+    <ClInclude Include="lz4hc.h" />
+    <ClInclude Include="lz4frame.h" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)src\lz4.c" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)src\lz4hc.c" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)src\lz4frame.c" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)src\xxhash.c" />
+  </ItemGroup>
+</Project>

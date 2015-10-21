@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4hc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\xxhash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4hc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\lib\lz4frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\scott\Downloads\lz4-r131\lz4-r131\cmake_unofficial\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{72C20AD3-C190-4A80-B623-0E5AA173D3CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A8887E37-0A33-41D6-813E-1D7F89CD4347}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
