@@ -1,4 +1,0 @@
-C:/Users/scott/Downloads/lz4-r131/CMakeFiles/lz4.dir
-C:/Users/scott/Downloads/lz4-r131/CMakeFiles/ALL_BUILD.dir
-C:/Users/scott/Downloads/lz4-r131/CMakeFiles/liblz4.dir
-C:/Users/scott/Downloads/lz4-r131/CMakeFiles/ZERO_CHECK.dir
